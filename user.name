@@ -1,0 +1,9 @@
+http.sslcainfo=D:/ruanjian/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+credential.helper=manager
+user.name=huanbaoi
+user.email=2019191279@qq.com
